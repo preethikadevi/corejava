@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * @author BEST
+ *
+ */
+package inheritance;
